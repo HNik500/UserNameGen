@@ -1,0 +1,12 @@
+{
+  "name": "easyname-generator",
+  "version": "1.0.1",
+  "description": "easyname-generator is a simple and lightweight JavaScript function designed to generate unique names by appending two random letters and a digit to a given base name. This can be useful for creating usernames, IDs, or other identifiers where a bit of randomness is required to ensure uniqueness.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nikhil hazari",
+  "license": "ISC"
+}
